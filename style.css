@@ -1,0 +1,87 @@
+.cubo{
+    width: 115px;
+    height: 115px;
+    border: 2px solid;
+    line-height: 115px;
+    font-size: 80px;
+    cursor: pointer;
+    text-shadow: 0 0 0 10px;
+
+
+
+}
+.container{
+    font-family: "Permanent marker", cursive;
+    text-align: center;
+    margin-top: 100px;
+   
+}
+.cubo-container{
+    display: grid;
+    grid-template-columns: repeat(3, auto);
+    width: 250px;
+    margin:  50px auto;
+    color: azure;
+    
+
+}
+
+.notification{
+ margin-left: 1100px;
+ margin-top: -500px;
+ height: 30px;
+ width: 180px;
+ background-color: black;
+ color: azure;
+ border-radius: 5px;
+ text-align: center;
+
+
+}
+.h1{
+    margin-left: 110px;
+    color: rgb(255, 255, 255);
+    font-size: 40px;
+
+}
+.restablecer{
+    margin-left: 110px;
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    height: 40px;
+    width: 100px;
+    border-radius: 5px;
+    font-family: "Permanent marker", cursive;
+}
+.cuerpo{
+    background-image: url("58914.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    text-align: center;
+    
+    
+}
+#start{
+    border-radius: 5px;
+    background-color: black;
+    font-family: "Permanent marker", cursive;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 30px;
+    font-size: 80px;
+   width: 200px;
+   
+    
+
+}
+.body{
+    background-image: url("58914.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    text-align: center;
+}
+.cont{
+    margin-top: 300px;
+    
+}
